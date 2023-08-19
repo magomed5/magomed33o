@@ -1,0 +1,17 @@
+.lang{
+    display: flex;
+    background-color: brown;
+    height:50px ;
+   justify-content: space-around;
+   align-items: center;
+}
+.f{
+    color: azure;
+}
+.kkk{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    padding: 10px;
+    height: 500px;
+}
